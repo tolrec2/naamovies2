@@ -44,8 +44,8 @@ SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 
 #stream feature - @movies_areaz
-STREAM_BIN = environ.get("STREAM_BIN", "") #Log channel/Bin Channel id -100xxxxxxx
-STREAM_URL = environ.get("STREAM_URL", "") # https://example.com/ (Your Stream Url)
+STREAM_BIN = environ.get("STREAM_BIN", "-1001951246507") #Log channel/Bin Channel id -100xxxxxxx
+STREAM_URL = environ.get("STREAM_URL", "https://harshafilestream-fc235c3a05ce.herokuapp.com") # https://example.com/ (Your Stream Url)
 IS_STREAM = bool(STREAM_BIN and STREAM_URL)
 #Use this feature, if you have deployed file to link bot. paste the app url with stream url and add filter bot as admin in bin channel and add id in stream bin
 
