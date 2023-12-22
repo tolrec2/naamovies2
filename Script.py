@@ -6,8 +6,8 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Can Provide Movies Just Ente
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/LDecaprioo>☢ ADITYA 🔥 ☢</a></b>
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/AjCinemassOfcl>AJ CINEMAS👾</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/CnuMoviesBot>MRCNU</a></b>😎</b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/CnuNetwork>CnuNetwork</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT = """
@@ -15,9 +15,9 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Wᴀɴᴛ ᴛʜɪs Bᴏᴛ Rᴇᴘᴏ? - <a href='https://t.me/LDecaprioo'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b> 🙃</b>
+Wᴀɴᴛ ᴛʜɪs Bᴏᴛ Rᴇᴘᴏ? - <a href='https://t.me/CnuMoviesBot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b> 🙃</b>
 
-Mᴏʀᴇ Iɴғᴏ Aʙᴏᴜᴛ ᴛʜɪs Rᴇᴘᴏ - <a href='https://t.me/LDecaprioo'>ᴅᴏᴜʙʟᴇ ᴛᴀᴘ</a></b>
+Mᴏʀᴇ Iɴғᴏ Aʙᴏᴜᴛ ᴛʜɪs Rᴇᴘᴏ - <a href='https://t.me/CnuMoviesBot'>ᴅᴏᴜʙʟᴇ ᴛᴀᴘ</a></b>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -39,7 +39,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/movies_areaz)</code>
+<code>[Button Text](buttonurl:https://t.me/CnuMoviesBo)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -157,7 +157,7 @@ Nᴀᴍᴇ - {}"""
 
 2 ᴍᴏɴᴛʜꜱ - ₹50
 
-•ᴜᴘɪ ɪᴅ : bhaskardakamolla1361
+•ᴜᴘɪ ɪᴅ : updatesoon
 
 •ꜰᴏʀ Qʀ ᴄᴏᴅᴇ : Please Use UPI ID For Any Payment APP
 
@@ -169,14 +169,14 @@ Nᴀᴍᴇ - {}"""
 
 ꜱᴛᴇᴘ 2 : ꜱᴄᴀɴ ᴛʜᴇ Qʀ ᴄᴏᴅᴇ ᴏʀ ᴜꜱɪɴɢ ᴜᴘɪ ɪᴅ ᴘᴀʏ ᴊᴜꜱᴛ ᴍᴏɴᴇʏ ᴅᴇᴘᴇɴᴅꜱ ᴏɴ ʏᴏᴜʀ ᴘʟᴀɴ.
 
-ꜱᴛᴇᴘ 3 : ꜱᴇɴᴛ ꜱᴄʀᴇᴇɴ ꜱʜᴏᴛ ᴛᴏ  Our @aj_payments_bot
+ꜱᴛᴇᴘ 3 : ꜱᴇɴᴛ ꜱᴄʀᴇᴇɴ ꜱʜᴏᴛ ᴛᴏ  Our @CnuMoviesBot
 
 ᴀɴʏ ᴅᴏᴜʙᴛꜱ ᴏʀ ʜᴏᴡ ᴛᴏ ʙᴇ ᴀ ᴘʀɪᴍᴇ ᴍᴇᴍʙᴇʀ ? 
- ᴄᴏɴᴛᴀᴄᴛ ➠ @aj_payments_bot
+ ᴄᴏɴᴛᴀᴄᴛ ➠ @CnuMoviesBot
 
-‣ ‣ᴜᴘɪ ɪᴅ : <code>bhaskardakamolla1361@ybl</code>
+‣ ‣ᴜᴘɪ ɪᴅ : <code>updatesoon@ybl</code>
 
-‣ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠ : <a href=https://telegram.me/LDecaprioo>ADITYA</a>
+‣ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠ : <a href=https://telegram.me/@CnuMoviesBot>MRCNU</a>
 
          » Qʀ ᴄᴏᴅᴇ ᴀʟꜱᴏ ᴀᴠᴀɪʟᴀʙᴇ ɪɴ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ «
 
