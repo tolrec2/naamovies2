@@ -22,10 +22,10 @@ CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 PICS = (environ.get('PICS', 'https://te.legra.ph/file/f8007b16d2d30ee1e26fe.jpg https://te.legra.ph/file/1f45310ab7f8fdad776e0.jpg https://te.legra.ph/file/b5a7ed10735babbf1c360.jpg https://te.legra.ph/file/c234f67a6019b18f5c8a0.jpg https://te.legra.ph/file/f490cc883993fbddb302e.jpg https://te.legra.ph/file/9d06641e6b20cb35a935d.jpg https://te.legra.ph/file/46f5a221eb02e8e0eec5c.jpg https://te.legra.ph/file/8ee919da38b968a020543.jpg')).split()
-PICS = (environ.get('PICS', 'https://te.legra.ph/file/cce1c345a4a752453a3a3.jpg')).split() #SAMPLE PIC
-NOR_IMG = environ.get("NOR_IMG", "https://te.legra.ph/file/a27dc8fe434e6b846b0f8.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://te.legra.ph/file/6f55d902f9bf2d0afd4bb.mp4")
-SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
+PICS = (environ.get('PICS', 'https://graph.org/file/8aadcfaf713e3fa9a84cb.jpg')).split() #SAMPLE PIC
+NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/676b1ae42f298a646b415.jpg")
+MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/13b0c8a96290ccf2dbca2.jpg")
+SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/8ebb1736ea631724d82c6.jpg")
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5397893493').split()]
